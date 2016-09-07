@@ -1,4 +1,4 @@
 ### Добро пожаловать!
-Wiki в помощь тем, кто столкнулся с CMS 1С битрикс.
+Собрание материалов по 1С битрикс.
 
-# [→ → →](https://github.com/alma-com/wiki-bitrix/wiki)
+# [Wiki](https://github.com/alma-com/wiki-bitrix/wiki)
